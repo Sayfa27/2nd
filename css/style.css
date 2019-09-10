@@ -1,0 +1,47 @@
+
+
+body {
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+    
+}
+
+.login-section {
+    
+    height: 502px;
+    padding: 14px;
+    margin: 84px;
+    width: 409px;
+}
+
+.form-control {
+    color: blue;
+    border: none;
+    width: 80%;
+    height: 28px;
+    margin: 15px auto;
+    padding: 4px;
+    display: block;
+    font-size: 22px;
+}
+
+.btn {
+    width: 60%;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    font-size: 22px;
+    transition: 0.1s ease;
+}
+.btn:hover {
+	box-shadow: 5px 8px 5px #ffff;
+	cursor: pointer;
+}
+a{
+    padding: 5px;
+    background-color: white;
+    font-size: 34px;
+    margin: 127px auto;
+}
